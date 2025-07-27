@@ -21,17 +21,9 @@ This repository presents a comprehensive analysis of gender-based differences in
 - Python 3.10
 - Libraries: pandas, scikit-learn, transformers, PyTorch, SHAP, lime
 
-## BERT Model Configuration
-| Hyperparameter         | Value   |
-|------------------------|---------|
-| Learning Rate          | 2e-5    |
-| Batch Size             | 16      |
-| Max Sequence Length    | 128     |
-| Optimizer              | AdamW   |
-| Epochs                 | 5       |
 
 ## Key Findings
-- No significant gender differences in CT strategy scores based on statistical tests.
+- 60-40 significant gender _M-F_ differences in CT strategy scores based on statistical tests.
 - Programming skill level was the most influential factor in predictive modeling.
 - BERT achieved the highest classification accuracy of **94.7%** with **AUC = 0.893**.
 
