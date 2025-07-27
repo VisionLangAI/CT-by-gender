@@ -27,9 +27,4 @@ This repository presents a comprehensive analysis of gender-based differences in
 - Programming skill level was the most influential factor in predictive modeling.
 - BERT achieved the highest classification accuracy of **94.7%** with **AUC = 0.893**.
 
-## Citation
-If you use this work, please cite appropriately.
 
----
-
-For more information, contact the research author.
